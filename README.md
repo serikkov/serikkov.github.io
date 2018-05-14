@@ -1,1 +1,0 @@
-# serikkov.github.io
