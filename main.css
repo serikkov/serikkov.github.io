@@ -30,7 +30,7 @@
 #slider { /*положение слайдера*/
     position: relative;
 	text-align: center;
-    top: -400px;
+    top: -300px;
 }
 
 #slider{ /*центровка слайдера*/
