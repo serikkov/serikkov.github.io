@@ -14,7 +14,7 @@ body{
 	margin-right: -4px;
 	height: 480px;
 	display: inline-block;
-	background: url(img/мышь.jpg) no-repeat;
+	background: url(мышь.jpg) no-repeat;
 	background-size: cover;
 	list-style: none;
 }
